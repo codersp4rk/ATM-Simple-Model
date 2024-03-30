@@ -1,1 +1,1 @@
-This program/java file belongs to Mr.Spark. If you use it for commercial purposes without the permission of Mr.Spark, you will be suspected of illegality and infringement.
+Plagiarism, duplication, cheating, and misuse of this code for any commercial purpose are prohibited. You will be responsible for any actions you take that violate the above.
